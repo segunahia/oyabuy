@@ -900,7 +900,7 @@ input[type='checkbox'] {
 
 .tabs .h2-heading,
 .tabs .p-heading {
-	text-align: center;
+	text-align: left;
 }
 
 .tabs .nav-tabs {
